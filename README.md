@@ -1,5 +1,6 @@
 download msi afterburner: https://www.msi.com/Landing/afterburner/graphics-cards
 download hwinfo: https://www.hwinfo.com/files/hwi64_854.exe
+
 فارسی
 ## نصب
 
